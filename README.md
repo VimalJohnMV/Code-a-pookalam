@@ -14,4 +14,5 @@ Defintely, the refernce image and coded one has no big similarites but it works!
 
 Have fun by changing the pookalam!
 
-Languages used: p5.js, HTML5
+Languages used: p5.js, HTML5, Python
+Libraries used: Turtle, Math
